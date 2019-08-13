@@ -2,7 +2,7 @@
 To have a practical example, the source code is explained using the seed dataset.
 
 
-1. Download all ".m" files in a folder and perform the following steps.
+1. Download all the provide files in this folder and perform the following steps.[You can use the provided .mat files to run the main file in section 4]
 
 2. Loading the data
   
