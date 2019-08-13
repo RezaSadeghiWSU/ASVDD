@@ -1,9 +1,8 @@
-% In the name of God
+% In God we trust
 % I'm Reza Sadeghi and my emails are 
 %        reza.sadeghi@imamreza.ac.ir
-%        im_rezasadeghi@yahoo.com
 %        programming.c.c@gmail.com
-% My phone number is 09193192109
+
 % Record Time:08/04/2015
 % Normal data description
 % We assume just one class as target class and others as a Outlier
